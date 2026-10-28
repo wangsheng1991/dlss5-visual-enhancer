@@ -1,0 +1,18 @@
+{
+  "name": "dlss5-visual-enhancer",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Pull one documented example from the DLSS5 visual enhancer — input, output, hashes and a compare page — from the command line. No account, no credits, no NVIDIA files.",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "bin": {
+    "dlss5-visual-example": "bin/enhance-example.mjs"
+  },
+  "scripts": {
+    "example": "node bin/enhance-example.mjs",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
