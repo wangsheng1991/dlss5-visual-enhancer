@@ -79,3 +79,10 @@ Not affiliated with NVIDIA. "DLSS" is NVIDIA's mark; this repository only descri
 our own pipeline.
 
 MIT licensed — see [LICENSE](LICENSE).
+
+## Related
+
+- [dlss5-enhancer-cli](https://github.com/wangsheng1991/dlss5-enhancer-cli) — Batch image enhancement from your own machine — the command-line client for the web enhancer.
+- [dlss5-compatibility-data](https://github.com/wangsheng1991/dlss5-compatibility-data) — Source-attributed, machine-readable DLSS 5 GPU compatibility data.
+- [dlss-5-studio](https://github.com/wangsheng1991/dlss-5-studio) — The Windows RTX desktop app behind dlss5nvidia.com — requirements, release notes, issues.
+- [DLSS5NVIDIA](https://www.dlss5nvidia.com/) — the site these projects belong to
